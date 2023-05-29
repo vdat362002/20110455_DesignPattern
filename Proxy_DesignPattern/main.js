@@ -6,7 +6,7 @@ const personProxy = new PersonProxy(person);
 
 console.log(`
   ${personProxy.person.name}
-  ${personProxy.person.age += 1}
+  ${personProxy.person.age += 2}
   ${personProxy.person.email}
   ${personProxy.person.country}
 `);
