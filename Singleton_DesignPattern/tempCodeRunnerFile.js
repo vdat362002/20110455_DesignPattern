@@ -1,0 +1,1 @@
+onsole.log(instance1 === instance2);
